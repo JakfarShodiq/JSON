@@ -1,0 +1,109 @@
+{
+  "request": [
+    {
+      "description": "Juicy and tender grilled steak with a smoky flavor.",
+      "price": 18.99,
+      "imageURL": "https://loremflickr.com/400/300/steak",
+      "protein": 25,
+      "id": 1
+    },
+    {
+      "description": "Crispy fried chicken wings served with tangy sauce.",
+      "price": 12.99,
+      "imageURL": "https://loremflickr.com/400/300/chicken",
+      "protein": 20,
+      "id": 2
+    },
+    {
+      "description": "Rich and creamy mashed potatoes with herbs.",
+      "price": 5.49,
+      "imageURL": "https://loremflickr.com/400/300/potatoes",
+      "protein": 3,
+      "id": 3
+    },
+    {
+      "description": "Fresh and zesty Caesar salad with croutons.",
+      "price": 8.49,
+      "imageURL": "https://loremflickr.com/400/300/salad",
+      "protein": 5,
+      "id": 4
+    },
+    {
+      "description": "Tender salmon fillet with a honey glaze.",
+      "price": 15.99,
+      "imageURL": "https://loremflickr.com/400/300/salmon",
+      "protein": 22,
+      "id": 5
+    },
+    {
+      "description": "Classic Margherita pizza with fresh tomatoes and basil.",
+      "price": 11.99,
+      "imageURL": "https://loremflickr.com/400/300/pizza",
+      "protein": 12,
+      "id": 6
+    },
+    {
+      "description": "Creamy pasta carbonara with a touch of Parmesan.",
+      "price": 13.49,
+      "imageURL": "https://loremflickr.com/400/300/pasta",
+      "protein": 15,
+      "id": 7
+    },
+    {
+      "description": "Sizzling fajitas with grilled chicken and bell peppers.",
+      "price": 14.99,
+      "imageURL": "https://loremflickr.com/400/300/fajitas",
+      "protein": 23,
+      "id": 8
+    },
+    {
+      "description": "Classic cheeseburger with lettuce, tomato, and cheese.",
+      "price": 9.99,
+      "imageURL": "https://loremflickr.com/400/300/cheeseburger",
+      "protein": 18,
+      "id": 9
+    },
+    {
+      "description": "Spicy tuna sushi rolls with a drizzle of soy sauce.",
+      "price": 12.49,
+      "imageURL": "https://loremflickr.com/400/300/sushi",
+      "protein": 16,
+      "id": 10
+    },
+    {
+      "description": "Grilled vegetable platter with a balsamic glaze.",
+      "price": 9.49,
+      "imageURL": "https://loremflickr.com/400/300/vegetables",
+      "protein": 6,
+      "id": 11
+    },
+    {
+      "description": "Spaghetti Bolognese with a hearty meat sauce.",
+      "price": 13.99,
+      "imageURL": "https://loremflickr.com/400/300/spaghetti",
+      "protein": 17,
+      "id": 12
+    },
+    {
+      "description": "Sweet and savory teriyaki chicken skewers.",
+      "price": 10.99,
+      "imageURL": "https://loremflickr.com/400/300/chicken",
+      "protein": 19,
+      "id": 13
+    },
+    {
+      "description": "Baked mac and cheese with a crispy breadcrumb topping.",
+      "price": 7.99,
+      "imageURL": "https://loremflickr.com/400/300/macaroni",
+      "protein": 10,
+      "id": 14
+    },
+    {
+      "description": "Crispy tempura shrimp with a soy dipping sauce.",
+      "price": 14.49,
+      "imageURL": "https://loremflickr.com/400/300/shrimp",
+      "protein": 20,
+      "id": 15
+    }
+  ]
+}
